@@ -19,7 +19,7 @@ can [check it yourself](https://konvetto.com/how-it-works) in your browser's Net
 
 | Project | What it does |
 | --- | --- |
-| [**pigmint**](https://github.com/konvetto/pigmint) | Palette PNG quantizer in TypeScript: smaller PNGs with hardly a visible change, zero dependencies, runs in browsers, workers and Node. It powers [Compress PNG](https://konvetto.com/images/compress-png) on konvetto.com. |
+| [**pngmint**](https://github.com/konvetto/pngmint) | Palette PNG quantizer in TypeScript: smaller PNGs with hardly a visible change, zero dependencies, runs in browsers, workers and Node. It powers [Compress PNG](https://konvetto.com/images/compress-png) on konvetto.com. |
 
 ### Tools
 
