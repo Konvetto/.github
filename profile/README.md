@@ -1,11 +1,6 @@
-<p align="center">
-  <a href="https://konvetto.com"><img src="https://konvetto.com/icon-192.png" width="72" height="72" alt="Konvetto"></a>
-</p>
-
-<h3 align="center">Konvetto: free file tools that run in your browser</h3>
+<a href="https://konvetto.com"><img src="https://raw.githubusercontent.com/Konvetto/.github/main/profile/banner.png" alt="Konvetto: free file tools that run in your browser. PDF, images, text and calculators. No upload, no account, no watermark." width="100%"></a>
 
 <p align="center">
-  PDF, images, text and calculators. No upload, no account, no watermark.<br>
   <a href="https://konvetto.com"><b>konvetto.com</b></a> · English, Polski, Deutsch, Español, Français
 </p>
 
