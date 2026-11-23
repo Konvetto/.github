@@ -17,6 +17,11 @@ can [check it yourself](https://konvetto.com/how-it-works) in your browser's Net
 | [**pngmint**](https://github.com/Konvetto/pngmint) | Palette PNG quantizer in pure TypeScript, 6 kB, zero dependencies. At 256 colors its photos come out closer to the original than UPNG.js, image-q or libimagequant, in smaller files. It powers [Compress PNG](https://konvetto.com/images/compress-png). |
 | [**libdeflate-wasm**](https://github.com/Konvetto/libdeflate-wasm) | libdeflate 1.26 in WebAssembly: zlib, gzip and DEFLATE at levels 0 to 12, byte for byte the output of the native library. Level 6 is smaller than fflate, pako and zlib at level 9 in a quarter of the time; level 12 matches Zopfli 18 times faster. It packs the text, drawings and fonts in [Compress PDF](https://konvetto.com/pdf/compress-pdf). |
 
+### How we compare
+
+Measured, with the test files linked: [PDF compressors compared](https://konvetto.com/pdf-compressor-comparison) (smaller than iLovePDF on 6 of 7 test PDFs at the same or better page quality) ·
+[Image compressors compared](https://konvetto.com/image-compressor-comparison) (JPG and PNG against TinyPNG, iLoveIMG and Compressor.io).
+
 ### Tools
 
 **PDF**: [Merge](https://konvetto.com/pdf/merge-pdf) ·
